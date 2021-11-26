@@ -5,7 +5,6 @@
 
 ## I'm a Husband, Father, Developer, and Teacher!!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!<br>
 -:open_book: I’m currently learning Angular
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
