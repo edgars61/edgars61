@@ -3,7 +3,7 @@
 ### Hi there, I'm Edgar
 
 
-## I'm a Husband, Father, Developer, and Teacher!!
+## I'm a Developer
 
 -:open_book: I’m currently learning Angular
 - 👯 I’m looking to collaborate with other content creators
