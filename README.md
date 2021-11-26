@@ -3,12 +3,11 @@
 ### Hi there, I'm Edgar
 
 
-## I'm a Developer
+## I'm a Full Stack Web Developer
 
--:open_book: I’m currently learning Angular
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 📚 I’m currently learning Angular
+- 📊 I'm currently working on a COVID-19 vaccine dashboard
+
 
 ### Connect with me:
 
@@ -84,7 +83,8 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edgars61)](https://github.com/anuraghazra/github-readme-stats)
+
 
 </details>
 
