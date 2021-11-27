@@ -42,20 +42,6 @@
 
 
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-
-</details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edgars61)](https://github.com/anuraghazra/github-readme-stats)
-
-
-</details>
-
 [website]: https://edgarsantana.dev
 [course]: http://vsCodeHero.com
 [instagram]: https://instagram.com/codeSTACKr
